@@ -1,0 +1,17 @@
+In an R markdown document, use R's built-in "iris" dataset (dataset <- iris).
+
+Get the summary of the dataset, and examine it with str() and other functions.
+
+Compute the mean and standard deviation of petal.length for each species.
+
+Plot a box plot of petal.length by species.
+
+---------------------------------------------
+
+Use R's built in Titantic data set (dataset <- Titanic).
+
+Figure out the number of sex/class combos that either survived or did not.
+
+Write these results to csv. (use write.csv(data, filename, row.names=FALSE))
+
+Make a plot of the frequency of each outcome (survived, did not survive) by class of passenger ticket.
